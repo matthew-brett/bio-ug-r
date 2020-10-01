@@ -1,17 +1,3 @@
-# A talk template
+# BIO240 materials
 
-Rename the `the_talk.md` file.
-
-```
-git submodule update --init
-```
-
-```
-make
-```
-
-Eventually consider adding the built PDF files:
-
-```
-git add -f *.pdf
-```
+Materials for BIO240 R teaching.

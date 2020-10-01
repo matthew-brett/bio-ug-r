@@ -1,3 +1,6 @@
 [submodule "data-science-bib"]
 	path = data-science-bib
 	url = https://github.com/matthew-brett/data-science-bib
+[submodule "excel-and-r"]
+	path = excel-and-r
+	url = https://gist.github.com/matthew-brett/4492675e9ca2b271131b50949537506e
