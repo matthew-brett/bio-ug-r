@@ -1,24 +1,25 @@
-You should do your exercises in the [R in the cloud](R in the cloud) system.
+You can do your exercises in the [R in the cloud](R in the cloud) system, or
+on your own laptop, if you [install R on your
+computer](installing-r-on-your-computer).
+
+This page is about how to do the exercises in the R in the cloud system.
 
 Click the exercise / homework link to go to the exercise.
 
 When you click on the exercise / homework link, the cloud system will fetch
 the files you need, and it will open the cloud system in your browser.
 
-Depending on the link, the cloud system may open directly in RStudio, in which case your browser tab will look something like this (depending on where you left RStudio last time):
+Please see the "System can be slow to start" section of the [R in the cloud](R in the cloud) system page.
+
+The cloud system should (eventually) open directly in RStudio, in which case
+your browser tab will look something like this (depending on where you left
+RStudio last time):
 
 ![](../file_contents/course%20files/images/rstudio_page.png)
 
-The system may also open in the basic "JupyterHub" interface.  The JupyterHub
-interface looks something like this:
-
-![](../file_contents/course%20files/images/jh_initial_screen.png)
-
-If the system opens in the JupyterHub interface, then open RStudio from the "New" dropdown menu near the top right of the JupyterHub interface:
-
-![](../file_contents/course%20files/images/jh_new_menu.png)
-
-Now you have RStudio open, use the File menu in RStudio to navigate to the file or directory for the exercise or homework.  See your instructions for the homework or exercise for the file you should work on.
+Now you have RStudio open, use the File - Open File... menu option in RStudio
+to navigate to the file or directory for the exercise or homework.  See your
+instructions for the homework or exercise for the file you should work on.
 
 ## Example of opening a file in RStudio
 

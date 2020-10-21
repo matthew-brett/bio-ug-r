@@ -45,11 +45,16 @@ You should end up with the R Studio page in the browser, like this:
 If you accidentally selected the "Python for science" option above, see
 [switching from Python to R](Switching from Python to R) to fix this.
 
-If you are unlucky, or there are many people using the system at the same
-time, the system may be slow to start.  You may see errors like "service
-unavailable". If so, try refreshing the page in your browser.  Keep trying for
-a few minutes if that does not work.  If it still does not work, contact
-<m.brett@bham.ac.uk>.
+## The system can be slow to start
 
-Any problems, let us know quickly via the Discussions section here, or
-by email to <m.brett@bham.ac.uk>
+If you are unlucky, or there are many people using the system at the same
+time, the system may be slow to start.  You may see errors like "could not
+start rstudio in time" or "service unavailable". If so, try refreshing the
+page in your browser.  Keep trying for a few minutes if that does not work.
+
+If it still does not work, contact <m.brett@bham.ac.uk> for help.
+
+## Problems in general
+
+Any problems, let us know quickly via the Discussions section here, or by
+email to <m.brett@bham.ac.uk>
