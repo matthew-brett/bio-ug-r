@@ -78,9 +78,14 @@ You will get a dialog box like this:
 
 Click on the "Software update" button, and install any proposed updates.
 
-Now close RStudio, and open it again.  Try opening a notebook.
+Only if that fails, then you will need to download the tools you need
+directly.  Go to
+<https://developer.apple.com/downloads/index.action?name=for%20Xcode>, log in
+with your Apple ID, agree to the "Apple Developer" terms and conditions, then
+download and install the "Command Line Tools for XCode 12" from the links on
+the page that comes up.
 
-If that doesn't work, let us know.
+Now close RStudio, and open it again.  Try opening a notebook.
 
 ## Other problems
 
