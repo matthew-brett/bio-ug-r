@@ -64,3 +64,9 @@ To go to the exercise, follow this link:
 
 Then use the File menu to navigate to the `pollution_packages` folder, and open
 the `pollution_packages.Rmd` notebook.
+
+## Solutions
+
+Solution to `aap_air_quality.Rmd` notebook: [aap_air_quality_solution.Rmd](../file_contents/course%20files/r_data_analysis/aap_air_quality_solution.Rmd)
+
+Solution to `pollution_packages.Rmd` notebook: [pollution_packages_solution.Rmd](../file_contents/course%20files/r_data_analysis/pollution_packages_solution.Rmd)
