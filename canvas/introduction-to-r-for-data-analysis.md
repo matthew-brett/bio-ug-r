@@ -36,9 +36,10 @@ help us understand what we've succeeded in teaching, as to test you.
 
 ### Week 9
 
-* Zoom: Introduction to R and the R notebook
+* Zoom: [Introduction to R and the
+  R notebook](introduction-to-r-and-the-notebook).
 * Work through [Datacamp introduction tutorial for
-  R](datacamp-introduction-to-r)
+  R](datacamp-introduction-to-r).
 
 Don't forget to [install R on your own computer](installing-r-on-your-computer).
 
