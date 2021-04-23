@@ -1,5 +1,3 @@
-# Extracting exercise archives
-
 If you are using R on your own computer, you need to download your exercises as
 `.zip` files, and then extract the files from the `.zip` file to some directory
 on your computer.
